@@ -30,6 +30,8 @@ The analysis of the election show that:
 ## Challenge Overview
 The purpose of this audit is to provide a complete list of each candidate, how many votes they received, what counties voted, and who won the congressional election.  The election commission needs to know the voter turnout for each county, the percentage of votes from each county, and the county with the highest turnout.  
 ## Challenge Summary
+The total votes cast were 369,711.  The county with the most votes was Denver County with 82.8% of the population voted equaling 306,055 people turned out to vote.  The winner of this election is Dianna DeGette with 272,892 votes with 73.8% of the total votes.
+
 Election-Audit Results
 -	Total Votes cast = 369,711
 -	County Votes breakdown
