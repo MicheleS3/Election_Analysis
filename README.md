@@ -33,7 +33,7 @@ The purpose of this audit is to provide a complete list of each candidate, how m
 Election-Audit Results
 -	Total Votes cast = 369,711
 -	County Votes breakdown
-- County Votes:
+    - County Votes:
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
