@@ -47,5 +47,6 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
-#Election-Audit Summary
+Election-Audit Summary
+
 The audit election code that has been written to provide the results above can be used for other elections in your area or other cities, counties, and even states.  A few modifications to the reference files are needed to calculate the desired results.  The file_to_load and file_to_save can easily be updated to pull new election files.  If election results were needed at a city or state level, the code could easily reference them instead of a county.  
