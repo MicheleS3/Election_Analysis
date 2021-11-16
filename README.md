@@ -28,5 +28,23 @@ The analysis of the election show that:
   -Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
 
 ## Challenge Overview
-
+The purpose of this audit is to provide a complete list of each candidate, how many votes they received, what counties voted, and who won the congressional election.  The election commission needs to know the voter turnout for each county, the percentage of votes from each county, and the county with the highest turnout.  
 ## Challenge Summary
+Election-Audit Results
+-	Total Votes cast = 369,711
+-	County Votes breakdown
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-	Largest County Turnout: Denver
+-	Candidate Vote & Percentage breakdown
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-	Election Winner
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+Election-Audit Summary
+The audit election code that has been written to provide the results above can be used for other elections in your area or other cities, counties, and even states.  A few modifications to the reference files are needed to calculate the desired results.  The file_to_load and file_to_save can easily be updated to pull new election files.  If election results were needed at a city or state level, the code could easily reference them instead of a county.  
